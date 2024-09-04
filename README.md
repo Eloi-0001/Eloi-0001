@@ -4,7 +4,7 @@
 </p>
 <p align="left">
   
-- 👦 Eu sou <strong>José Lucas ELoi</strong> de <strong>Pernambuco</strong>
+- 👦 Eu sou <strong>José Lucas ELoi</strong> de <strong>Recife-PE</strong>
 
 - 🔭 <strong>Estou me graduando em Analise e desenvolvimento de Sistemas no Senac</strong>
 
