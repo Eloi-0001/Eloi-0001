@@ -1,5 +1,5 @@
 
-<p align="center"><b>Sobre mim</b></p>  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fpixel-pokemon-pokmon-FX5aKofPgom36xXCSe&psig=AOvVaw1ddKiCJLfZXEAL4IXQ9dN-&ust=1725537107688000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCLgeacqYgDFQAAAAAdAAAAABAS" width="30px">
+<p align="center"><b>Sobre mim</b></p>  <img src="https://media2.giphy.com/media/FX5aKofPgom36xXCSe/giphy.gif?cid=790b7611csb43kizttyzn3v9lw3jpvtfe8zg9p81ix1k94q0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">
 
 <p align="left">
   
