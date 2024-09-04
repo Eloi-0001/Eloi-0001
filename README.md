@@ -1,5 +1,5 @@
 
-<p align="center"><b>Sobre mim</b></p> <img src="https://media2.giphy.com/media/FX5aKofPgom36xXCSe/giphy.gif?cid=790b7611csb43kizttyzn3v9lw3jpvtfe8zg9p81ix1k94q0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">
+<p align="center"><b>Sobre mim</b></p><img src="https://media2.giphy.com/media/FX5aKofPgom36xXCSe/giphy.gif?cid=790b7611csb43kizttyzn3v9lw3jpvtfe8zg9p81ix1k94q0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60px">
 
 <p align="left">
   
