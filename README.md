@@ -1,6 +1,5 @@
 
-<p align="center"><b>Sobre mim</b></p>  <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZyZmpheWxoN2ZiMmJiZjNsYXJ1N28yYXlwenZ4ZHJ3ZnJ3ZWk4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FX5aKofPgom36xXCSe/giphy.gif)" width="30px">
-
+<p align="center"><b>Sobre mim</b></p>  <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fpixel-pokemon-pokmon-FX5aKofPgom36xXCSe&psig=AOvVaw1ddKiCJLfZXEAL4IXQ9dN-&ust=1725537107688000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCLgeacqYgDFQAAAAAdAAAAABAS)" width="30px">
 
 <p align="left">
   
