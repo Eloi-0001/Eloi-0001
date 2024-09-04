@@ -24,4 +24,4 @@
 *************
 **Contador De Visitas**
 
-![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{Eloi-0001}/count.svg)
